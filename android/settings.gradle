@@ -1,0 +1,3 @@
+rootProject.name = 'JaydenGithub'
+
+include ':app'
